@@ -1,0 +1,12 @@
+.row {
+  margin-top: 20px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.row_1 {
+  font-size: 40px;
+  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 13px;
+}
