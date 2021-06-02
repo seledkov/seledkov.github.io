@@ -1,5 +1,5 @@
 # Uber
- stack: HTML, CSS, Boostrap, adapative
+ stack: HTML, CSS, Bootstrap, adapative
  
  https://seledkov.github.io/Uber/ 
 
